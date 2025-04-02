@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { format, addDays, parseISO } from 'date-fns';
 
 interface Subcategory {
